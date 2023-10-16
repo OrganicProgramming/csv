@@ -36,4 +36,5 @@ greg;24;Male
 ### TO DO
 
 -Add support for different encodings.  
--Add support for csv files without headers.
+-Add support for csv files without headers.  
+-Add tests and if good enough add to quicklisp for convenient download.
